@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Greed';
+  src: 
+       url('nextjs-dashboard/public/fonts/GreedStandard-Medium.woff') format('woff'),
+       url('nextjs-dashboard/public/fonts/GreedStandard-Medium.woff2/fonts/greed.ttf') format('woff2');
+      
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
